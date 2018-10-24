@@ -1,6 +1,13 @@
 
 ## To Run Storybook 
 ```
-yarn run storybook
+yarn install
 ```
 
+```
+yarn start
+```
+
+```
+yarn run storybook
+```
